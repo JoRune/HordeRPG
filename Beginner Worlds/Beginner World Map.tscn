@@ -1,9 +1,0 @@
-[gd_scene format=2]
-
-[node name="World" type="Node2D"]
-
-[node name="Map Sprite" type="Sprite" parent="."]
-
-[node name="Map Marker" type="Sprite" parent="."]
-
-[node name="Background" type="Sprite" parent="."]

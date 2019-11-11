@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-#####
+##### Jordan Carter
 
 const MOVETYPE = Vector2()
 

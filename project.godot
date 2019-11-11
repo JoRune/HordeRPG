@@ -16,8 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="HordeRPG"
-config/icon="res://Sprites/IconSword.png"
+config/icon="res://Sprites/Item Sprites/IconSword.png"
 
 [display]
 
-mouse_cursor/custom_image="res://Sprites/1Default Cursor.png"
+mouse_cursor/custom_image="res://Sprites/UI Elements/1Default Cursor.png"

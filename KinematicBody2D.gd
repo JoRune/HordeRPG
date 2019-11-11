@@ -1,5 +1,12 @@
 extends KinematicBody2D
 
+#####
+
+const MOVETYPE = Vector2()
+
+var onGround
+var isMoving
+
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
